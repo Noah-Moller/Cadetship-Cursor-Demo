@@ -1,0 +1,21 @@
+# Requirements for Cursor Demo Project
+# These packages support the various demo scenarios
+
+# Data processing and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web scraping (Scenario 1)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# API development (Scenario 4)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Testing
+pytest>=7.4.0
+
+# Development tools
+black>=23.0.0
+mypy>=1.5.0 
